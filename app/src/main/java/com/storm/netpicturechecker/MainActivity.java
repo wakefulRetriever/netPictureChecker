@@ -17,6 +17,10 @@ public class MainActivity extends ActionBarActivity {
         Log.d("TEST","TEST");
         Log.d("TEST","TEST");
         Log.d("TEST","TEST");
+        Log.d("TEST","TEST");
+        Log.d("TEST","TEST");
+        Log.d("TEST","TEST");
+        Log.d("TEST","TEST");
     }
 
 
